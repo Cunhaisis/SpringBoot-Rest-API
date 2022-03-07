@@ -1,0 +1,5 @@
+package br.com.app.rest.curso.springboot.model;
+
+public class Usuario {
+
+}
